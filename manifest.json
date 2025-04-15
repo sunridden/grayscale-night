@@ -1,6 +1,6 @@
 {
     "name": "Grayscale Night",
-    "icon": {
+    "icons": {
       "16": "src/images/icon.png",
       "32": "src/images/icon.png",
       "48": "src/images/icon.png",
