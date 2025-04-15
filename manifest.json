@@ -1,11 +1,11 @@
 {
-    "name": "Hello Extensions",
-    "description": "Base Level Extension",
+    "name": "Grayscale Night",
+    "description": "Black and white mode for all websites",
     "version": "1.0",
     "manifest_version": 3,
     "action": {
-      "default_popup": "hello.html",
-      "default_icon": "hello_extensions.png"
+      "default_popup": "src/index.html",
+      "default_icon": "src/img/icon.png"
     }
-  }
+}
   
