@@ -1,11 +1,17 @@
 {
     "name": "Grayscale Night",
+    "icon": {
+      "16": "src/images/icon.png",
+      "32": "src/images/icon.png",
+      "48": "src/images/icon.png",
+      "128": "src/images/icon.png"
+    },
     "description": "Black and white mode for all websites",
     "version": "1.0",
     "manifest_version": 3,
     "action": {
       "default_popup": "src/index.html",
-      "default_icon": "src/imgages/icon.png"
+      "default_icon": "src/images/icon.png"
     }
 }
   
